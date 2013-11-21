@@ -23,7 +23,7 @@
             </tr>
             <tr>
                 <th><a href="#"><img id="actuImg2" alt="affiche" src="img/Affiche-de-l-expo.jpg"/></a></th>
-                <td><a href="#">ART INCOGNITO 13 Galerie du Soleil, Saignelégier, 8 décembre 2013 - 12 janvier 2014</a></td>   
+                <td><a href="#">ART INCOGNITO 13 exposition de groupe à la Galerie du Soleil, Saignelégier, 8 décembre 2013 - 12 janvier 2014</a></td>   
             </tr>
         </tbody>
     </table>
