@@ -378,12 +378,13 @@ p #adrien{
 	border:none;
 }
 .vitalink{
-    text-decoration: none;
+    text-decoration: underline;
     color: black;
 }
 #vitalinks a:hover{
-    text-decoration: underline;
+    color: #ddd;
 }
 #vitaselected{
     text-decoration: underline;
+    color:#ddd;
 }
