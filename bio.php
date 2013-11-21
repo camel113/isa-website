@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <?php include('head.php')?>
+    <?php include('head.php') ?>
 </head>
 <body>
 <div id="page">
 <h1>Isabelle Pilloud</h1>
 <div id="menu">
-    <?php include('menu.php')?>
+    <?php include('menu.php') ?>
 </div>
 <div id="content">
     <h1>Bio</h1>
@@ -19,7 +19,7 @@
     </thead>
     <tbody>
         <tr>
-            <th></th><td>Membre des associations de créateurs <a href="http://charlatan.ch">CHARLATAN</a> et <a href="http://www.visarte-fribourg.ch">VISARTE</a></td>
+            <th></th><td>Membre des associations de créateurs <a href="http://charlatan.ch" target="_blank">CHARLATAN</a> et <a href="http://www.visarte-fribourg.ch" target="_blank">VISARTE</a></td>
         </tr>
         <tr>
             <th>Depuis 2007</th><td>Vit et travaille en Suisse, à Payerne puis à Fribourg ; séjours réguliers à Berlin<br/>Parallèlement à la peinture, médiation culturelle au MAHF et enseignement  de l’éducation artistique</td>

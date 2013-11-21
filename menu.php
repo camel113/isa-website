@@ -197,6 +197,6 @@
     </li>
     <li><a href="contact.php">Contact</a>
     </li>
-    <li><a href="http://www.facebook.com/pages/Isabelle-Pilloud/140454049353474"><img src="img/facebook.png" alt="facebook"/></a>
+    <li><a href="http://www.facebook.com/pages/Isabelle-Pilloud/140454049353474" target="_blank"><img src="img/facebook.png" alt="facebook"/></a>
     </li>
 </ul>
