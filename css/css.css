@@ -1,0 +1,388 @@
+body{
+    font: normal 13px Verdana, sans-serif;
+    /*background-image: url(background.gif);*/
+    background-color: #b5b5b5;
+    background-repeat: repeat-x;
+}
+#page{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    margin-top:50px;
+    height:450px;
+    padding-left:10px;
+    padding-right:10px;
+}
+#content{
+    background-color: #969696;
+    margin-top: 2px;
+    height: 100%;
+    width: 900px;
+    padding-top: 50px;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-right-style: solid;
+    border-right-width: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+#menu{
+    background-color: #969696;
+    padding-left: 14px;
+    margin-right: 0px;
+    width: 886px;
+    border-bottom-style: solid;
+    border-bottom-width: thin;
+    border-left-style: solid;
+    border-left-width: thin;
+    border-right-style: solid;
+    border-right-width: thin;
+    border-top-style: solid;
+    border-top-width: thin;
+}
+#content p{
+    margin-left: 26px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    margin-top: 20px;
+}
+#content table{
+    margin-left: 24px;
+    font-family: Verdana, Geneva, sans-serif;
+}
+#content #tabBio tbody tr th{
+    height: 40px;
+    width: 120px;
+    vertical-align: top;
+    text-align: left;
+}
+#tabBio tbody tr td a{
+	font-weight:bold;
+	text-decoration:none;
+	color:black;
+}
+#tabBio tbody tr td a:hover{
+	font-weight:bold;
+	text-decoration:none;
+	color:white;
+}
+#content .ChoixExpo{
+    float: left;
+    margin-right: 20px;
+}
+#content .ChoixExpo a{
+    text-decoration: none;
+    color: black;
+}
+#content #expoSelect{
+    text-decoration: underline;
+}
+#content .ChoixExpo a:hover{
+    text-decoration: underline;
+}
+#content #tabExpo{
+    clear: left;
+    margin-top: 20px;
+}
+#content #tabExpo tbody tr th{
+    height: 40px;
+    width: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+#content table tbody tr td{
+    vertical-align: top;
+}
+#tabs{
+    margin-left: 130px;
+
+}
+#content #damier{
+margin-left:130px;
+}
+#content #damier img{
+width:630px;
+    height:330px;
+    margin-right: 0px;
+}
+#content  img{
+    width:200px;
+    height:330px;
+    margin-right: 15px;
+}
+#page h1{
+    margin-top: 0px;
+    margin-left: 24px;
+    margin-bottom: 5px;
+    padding: 0;
+    font-size: 30px;
+    font-family:Verdana, Geneva, sans-serif;
+    font-weight:normal;
+}
+#news{
+    margin-left: 24px;
+    margin-top: 18px;
+}
+#news p{
+    font-size: 12px;
+    margin-bottom: 8px;
+    margin-top: 1px;
+}
+#news p a{
+	color: black;
+	text-decoration:underline;
+}
+#footer{
+    margin-top: 5px;
+}
+#footer p{
+    font-family: rockwell;
+}
+#content .pageSuiv{
+    text-align: right;
+    margin-right: 48px;
+}
+#content .pageSuiv #select{
+    color:white;
+}
+#content .pageSuiv a:hover{
+    color:white;
+}
+#content .pageSuiv a{
+    margin-left: 20px;
+    color: black;
+}
+#content #tabAchats{
+    clear: left;
+    margin-top: 20px;
+}
+#content #tabAchats tbody tr th{
+    height: 40px;
+    width: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+#content #justify{
+    text-align: justify;
+    margin-right: 24px;
+    margin-bottom: 34px;
+    margin-top: 14px;
+}
+#content #tabPublications{
+    clear: left;
+    
+}
+#content #tabPublications tbody tr th{
+    height: 40px;
+    width: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+#content #txtDemarcheArt{
+    height: 250px;
+}
+#content #txtDemarcheArt p{
+    font-weight: normal;
+    text-align: justify;
+    margin-right: 24px;
+}
+#content #txtDemarcheArt ul{
+    list-style-type: disc;
+    margin-left: 54px;
+    margin-right: 24px;
+    text-align: justify;
+}
+#content #txtDemarcheArt ul li{
+    margin-bottom: 10px;
+}
+#content .divImg{
+	width:100px;
+	height:100px;
+	overflow:hidden;
+	border:none;
+	float:left;
+	margin-right:10px;
+        margin-top: 15px;
+	background-color:black;
+	border-style:solid;
+	border-width:thin;
+	text-decoration:none;
+}
+#content #boxPhotos{
+    margin-left: 24px;
+    margin-top: 15px;
+}
+#content .boxPhotos{
+    margin-left: 24px;
+    margin-top: 15px;
+}
+#content #h1galerie{
+    padding-top: 20px;
+    clear: left;
+}
+#content .presseTitre{
+    font-size: 20px;
+    font-weight: normal;
+}
+#content .presseTitre a{
+    text-decoration: none;
+    color: black;
+}
+#content .presseTitre a:hover{
+    color: white;
+    text-decoration: underline;
+}
+#content #presseTitres{
+    margin-top: 40px;
+}
+#content .presseTitre span{
+    font-style: italic;
+}
+#content h2{
+    margin-left: 24px;
+    margin-top: 15px;
+    margin-right: 24px;
+}
+#content h3{
+    margin-left: 24px;
+    margin-right: 24px;
+    margin-top: 20px;
+}#content .presseTxt{
+    margin-right: 24px;
+    text-align: justify;
+}
+#content #presseArt{
+    height: 370px;
+}
+#content #tableAtelier tbody tr th{
+    height: 40px;
+    width: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+#content #tableAtelier tbody tr td{
+    font-weight: bold;
+}
+#content #tableDomicile tbody tr th{
+    height: 40px;
+    width: 80px;
+    vertical-align: top;
+    text-align: left;
+}
+#content #tableDomicile tbody tr td{
+    font-weight: bold;
+}
+#content #contactImg{
+	float:left;
+	width:500px;
+	height:375px;
+	margin-left:24px;
+}
+.ulFirstChild p{
+	margin:2px 0 0 0;
+}
+.cacheToi{
+	display:none;
+	visibility:hidden;
+}
+#content .galerie{
+	border:none;
+	text-decoration:none;
+}
+#content #actuImg1{
+        width: 64px;
+        height: 100px;
+	float:left;
+	margin-left:24px;
+}
+#content #actuImg2{
+        width: 64px;
+        height: 89px;
+	float:left;
+	margin-left:24px;
+}
+#content #actuImg3{
+    width: 120px;
+        height: 100px;
+	float:left;
+	margin-left:24px;
+}
+#content #actuImg4{
+	width: 110px;
+	height:165px;
+	float:left;
+	margin-left:24px;
+}
+#tabActu tbody tr{
+	margin-bottom:10px;
+}
+#tabActu tbody tr td{
+	font-weight:bold;
+}
+#tabActu tbody tr td a{
+	font-weight:bold;
+	text-decoration:none;
+	color:black;
+}
+#tabActu tbody tr td a:hover{
+	font-weight:bold;
+	text-decoration:none;
+	color:white;
+}
+#tabActu tbody tr th a img{
+	font-weight:bold;
+	text-decoration:none;
+	border:none;
+}
+#content #tabActu{
+	margin-top:15px;
+}
+#footer a{
+    color: black;
+}
+#footer a:hover{
+    color: white;
+    text-decoration: underline;
+}
+p #adrien{
+	height:14px;
+	width:400px;
+	margin-bottom:0;
+	padding-bottom:0;
+}
+#txtDemarcheArt a{
+	text-decoration:none;
+	font-weight:bold;
+	color:inherit;
+}
+#txtDemarcheArt a:hover{
+	color:white;
+}
+#pactu{
+    margin-left: 28px;
+}
+#pactu a{
+    text-decoration: none;
+    color: black;
+}
+#pactu a:hover{
+    text-decoration: none;
+    color: white;
+}
+#menu ul li img{
+    margin-top: 5px;
+	border:none;
+}
+.vitalink{
+    text-decoration: none;
+    color: black;
+}
+#vitalinks a:hover{
+    text-decoration: underline;
+}
+#vitaselected{
+    text-decoration: underline;
+}
