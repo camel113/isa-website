@@ -72,16 +72,17 @@ body{
 #content .ChoixExpo{
     float: left;
     margin-right: 20px;
+    text-decoration: underline;
 }
 #content .ChoixExpo a{
     text-decoration: none;
     color: black;
 }
-#content #expoSelect{
-    text-decoration: underline;
+#content #expoSelect a{
+    color:#ddd;
 }
 #content .ChoixExpo a:hover{
-    text-decoration: underline;
+    color:#ddd;
 }
 #content #tabExpo{
     clear: left;
