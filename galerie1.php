@@ -32,8 +32,8 @@
                 <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/14poisson-de-Hayat-(Arabqueen).gif"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/app14poisson-de-Hayat-(Arabqueen).gif" alt="14poisson-de-Hayat-(Arabqueen)"/></a></div>
                 <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/15Mariam.gif"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/app15Mariam.gif" alt="15Mariam"/></a></div>
                 
-                <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/hawwa-tissuweb.jpg"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/hawwa-tissuweb.jpg" alt="hawwa-tissuweb"/></a></div>
-                <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/mariam-(rouge-sur-tissu).jpg"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/mariam-(rouge-sur-tissu).jpg" alt="mariam-(rouge-sur-tissu)"/></a></div>
+                <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/hawwa-tissuweb.jpg"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/app16hawwa-tissuweb.jpg" alt="hawwa-tissuweb"/></a></div>
+                <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/mariam-(rouge-sur-tissu).jpg"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/app17mariam-(rouge-sur-tissu).jpg" alt="mariam-(rouge-sur-tissu)"/></a></div>
 
             </div>
         </div>
