@@ -1,13 +1,13 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <?php include('head.php')?>
+    <?php include('head.php') ?>
 </head>
 <body>
     <div id="page">
         <h1>Isabelle Pilloud</h1>
         <div id="menu">
-            <?php include('menu.php')?>
+            <?php include('menu.php') ?>
         </div>
         <div id="content">
             <h1>Arabqueen et autres musulmanes (2011)</h1>
@@ -32,6 +32,9 @@
                 <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/14poisson-de-Hayat-(Arabqueen).gif"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/app14poisson-de-Hayat-(Arabqueen).gif" alt="14poisson-de-Hayat-(Arabqueen)"/></a></div>
                 <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/15Mariam.gif"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/app15Mariam.gif" alt="15Mariam"/></a></div>
                 
+                <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/hawwa-tissuweb.jpg"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/hawwa-tissuweb.jpg" alt="hawwa-tissuweb"/></a></div>
+                <div class="divImg"><a class="single_image" rel="group1" href="img/Arabqueen_et_autres_musulmanes/mariam-(rouge-sur-tissu).jpg"><img class="galerie" src="img/Arabqueen_et_autres_musulmanes/mariam-(rouge-sur-tissu).jpg" alt="mariam-(rouge-sur-tissu)"/></a></div>
+
             </div>
         </div>
         <div id="footer">
