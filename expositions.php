@@ -13,7 +13,7 @@
     <h1 class="ChoixExpo" id="expoSelect"><a href="expositions.php">Expositions</a></h1>
     <h1 class="ChoixExpo" id="expoNonSelect" ><a href="expositionsCollectives.php?tab=1">Expositions collectives</a></h1>
 
-    <table id="tabExpo">
+    <table class="tabExpo">
     <thead>
     <tr>
     </tr>

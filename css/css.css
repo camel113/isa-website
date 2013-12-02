@@ -84,15 +84,18 @@ body{
 #content .ChoixExpo a:hover{
     color:#ddd;
 }
-#content #tabExpo{
+#content .tabExpo{
     clear: left;
     margin-top: 20px;
 }
-#content #tabExpo tbody tr th{
+#content .tabExpo tbody tr th{
     height: 40px;
     width: 80px;
     vertical-align: top;
     text-align: left;
+}
+#content table.tabExpCol tr th{
+    height: 18px;
 }
 #content table tbody tr td{
     vertical-align: top;
