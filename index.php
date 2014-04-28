@@ -19,7 +19,6 @@
     </div>
     <div id="news">
         <p><a href="actualite.php">Présence dans "Aux combles de l'art" : collection d'art moderne et contemporain du MAHF - Musée d'art et d'histoire Fribourg</a></p>
-        <p><a href="actualite.php">ART INCOGNITO 13 exposition de groupe à la Galerie du Soleil, Saignelégier, 8 décembre 2013 - 12 janvier 2014</a></p>
     </div>
 </div>
 <div id="footer">
