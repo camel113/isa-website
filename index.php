@@ -18,7 +18,8 @@
 	<img alt="damier isabelle pilloud" src="img/damier.png"/>
     </div>
     <div id="news">
-        <p><a href="actualite.php">Présence dans "Aux combles de l'art" : collection d'art moderne et contemporain du MAHF - Musée d'art et d'histoire Fribourg</a></p>
+        <p><a href="actualite.php">Mardi 14 octobre à 18h30 au MAHF : conférence par Pascale Stocker et Isabelle Pilloud sur <i>Sophie</i></a></p>
+        <p><a href="actualite.php">Samedi 18 octobre 10h-16h : portes ouvertes à l’occasion de la Fête du quartier du Bourg</a></p>
     </div>
 </div>
 <div id="footer">
