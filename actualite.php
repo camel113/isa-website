@@ -22,12 +22,8 @@
                 <td>Présence dans "Aux combles de l'art" : collection d'art moderne et contemporain du MAHF - Musée d'art et d'histoire Fribourg</td>	
             </tr>
             <tr>
-                <th><a href="#"><img id="actuImg2" alt="affiche" src="img/SAM.jpg"/></a></th>
-                <td>Samedi 18 octobre 10h-16h : le quartier du Bourg fête l’évènement qui va modifier considérablement la vie de ses habitants : l’ouverture du pont de la Poya. Animations, chasse au trésor, et portes ouvertes !</td>   
-            </tr>
-            <tr>
-                <th><a href="#"><img id="actuImg3" alt="affiche" src="img/sophie.jpg"/></a></th>
-                <td>Mardi 14 octobre à 18h30 au MAHF – Musée d’art et d’histoire Fribourg : conférence par Pascale Stocker et Isabelle Pilloud sur Sophie, portrait faisant partie d’une série de tableaux acquis par le Musée en 2010 <a href="http://www.mahf.ch" target="_blank">www.mahf.ch</a></td>   
+                <th><a href="#"><img id="actuImg2" alt="affiche" src="img/heroineFlyer.jpg"/></a><a href="#"><img id="actuImg3" alt="affiche" src="img/visarteMini.jpg"/></a></th>
+                <td>9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</td>   
             </tr>
         </tbody>
     </table>

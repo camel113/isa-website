@@ -5,6 +5,9 @@
     </thead>
     <tbody>
         <tr>
+            <th>2008</th><td>Art incognito, Galerie du Soleil, Saignelégier</td>
+        </tr>
+        <tr>
             <th>2008</th><td>Confrontations X, Galerie du Soleil, Saignelégier</td>
         </tr>
         <tr>
@@ -24,9 +27,6 @@
         </tr>
         <tr>
             <th>1995</th><td>Expo Train, Galerie du Soleil, Saignelégier</td>
-        </tr>
-        <tr>
-            <th></th><td></td>
         </tr>
         <tr>
             <th></th><td></td>

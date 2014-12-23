@@ -5,6 +5,9 @@
     </thead>
     <tbody>
         <tr>
+            <th>2015</th><td>vis-à-vis/visarte, projet personnel Héroïnes, Musée du Papier peint, Mézières (FR)</td>
+        </tr>
+        <tr>
             <th>2012</th><td>Aux combles de l’art, Collection d’art moderne et contemporain du MAHF - Musée d’art et d’histoire Fribourg</td>
         </tr>
         <tr>
@@ -45,9 +48,6 @@
         </tr>
         <tr>
             <th>2009</th><td>Confrontations XI, Galerie du Soleil, Saignelégier</td>
-        </tr>
-        <tr>
-            <th>2008</th><td>Art incognito, Galerie du Soleil, Saignelégier</td>
         </tr>
     </tbody>
 </table>

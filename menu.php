@@ -61,7 +61,24 @@
     </li>
     <li><a href="#">Travaux</a>
     <ul class="ulFirstChild">
+        <li><a href="heroine.php">HEROÏNES</a>
+            <ul class="cacheToi">
+                    <li><a href="#"></a>
 
+                        <ul>
+                            <li><a href="#"></a></li>
+                        </ul>
+
+                    </li>
+                    <li><a href="#"></a>
+
+                        <ul>
+                            <li><a href="#"></a></li>
+                        </ul>
+
+                    </li>
+                </ul>
+        </li>
         <li><a href="demarcheArt.php?page=1">démarche artistique</a>
         	<ul class="cacheToi">
                     <li><a href="#"></a>

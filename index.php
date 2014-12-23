@@ -18,8 +18,7 @@
 	<img alt="damier isabelle pilloud" src="img/damier.png"/>
     </div>
     <div id="news">
-        <p><a href="actualite.php">Mardi 14 octobre à 18h30 au MAHF : conférence par Pascale Stocker et Isabelle Pilloud sur <i>Sophie</i></a></p>
-        <p><a href="actualite.php">Samedi 18 octobre 10h-16h : portes ouvertes à l’occasion de la Fête du quartier du Bourg</a></p>
+        <p><a href="actualite.php">9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</a></p>
     </div>
 </div>
 <div id="footer">
