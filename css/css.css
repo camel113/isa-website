@@ -405,3 +405,17 @@ p #adrien{
     text-decoration: underline;
     color:#ddd;
 }
+.heroines-nav a{
+    color: black;
+    display: block;
+    font-size: 20px;
+    font-weight: normal;
+    margin-left: 26px;
+    text-decoration: none;
+    margin-bottom: 16px;
+    margin-top: 20px;
+}
+.heroines-nav a:hover{
+    color: white;
+    text-decoration: underline;
+}

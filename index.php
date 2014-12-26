@@ -18,7 +18,7 @@
 	<img alt="damier isabelle pilloud" src="img/damier.png"/>
     </div>
     <div id="news">
-        <p><a href="actualite.php">9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</a></p>
+        <p><a href="heroines.php">9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</a></p>
     </div>
 </div>
 <div id="footer">
