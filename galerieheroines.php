@@ -10,7 +10,7 @@
             <?php include('menu.php') ?>
         </div>
         <div id="content">
-            <h1>Galerie Heroine</h1>
+            <h1>Galerie HEROÏNES</h1>
             <div id="boxPhotos">
                 
                 <div class="divImg"><a class="single_image" rel="group1" href="img/heroines/malala.jpg"><img class="galerie" src="img/heroines/malala.jpg" alt="Malala"/></a></div>
@@ -20,7 +20,7 @@
             </div>
         </div>
         <div id="footer">
-            <?php include('footer.php')?>
+            <?php include('footer.php');?>
         </div>
     </div>
 </body>

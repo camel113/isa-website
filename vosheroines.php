@@ -20,7 +20,7 @@
         <p><b>Enfin, une carte du monde en toile grise va être amenée dans différents lieux, dans le courant de l’année 2015. Les visiteurs pourront y placer leur HEROÏNE en cousant une perle à l’endroit elle se trouve. Grâce à votre participation, j’espère que la carte du monde se colore, s’illumine : un signe, et l’espoir, que toutes ces femmes héroïques peuvent améliorer le monde !</b></p>
         <p>Première étape : la carte du monde des héroïnes se trouvera au Musée du Papier peint  (1684 Mézières / FR / Suisse / www.museepapierpeint.ch ) du 9 janvier au 31 mai 2015.</p>
         <p><b>Un très grand merci pour votre participation !</p></b>
-        <p>Suivez l’évolution du projet HEROINES ici.</p>
+        <p>Suivez l’évolution du projet HEROINES <a href="evoheroines.php">ici</a>.</p>
     </div>
     <div id="footer">
         <?php include('footer.php');?>

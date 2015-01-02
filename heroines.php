@@ -11,8 +11,9 @@
     </div>
     <div id="content" class="heroines-nav">
         <h1>HEROÏNES</h1>
-        <a href="galerieheroines.php">- images d'héroïnes</a>
-        <a href="vosheroines.php">- j'ai besoin de vous, de vos héroïnes</a>
+        <a href="galerieheroines.php">Galerie HEROÏNES</a>
+        <a href="vosheroines.php">J'ai besoin de VOS héroïnes</a>
+        <a href="evoheroines.php">Evolution du projet HEROINES</a>
     </div>
     <div id="footer">
         <?php include('footer.php');?>
