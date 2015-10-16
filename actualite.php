@@ -22,8 +22,12 @@
                 <td>Présence dans "Aux combles de l'art" : collection d'art moderne et contemporain du MAHF - Musée d'art et d'histoire Fribourg</td>	
             </tr>
             <tr>
-                <th><a href="#"><img id="actuImg2" alt="affiche" src="img/heroineFlyer.jpg"/></a><a href="#"><img id="actuImg3" alt="affiche" src="img/visarteMini.jpg"/></a></th>
+                <th><a href="#"><img id="actuImg2" alt="affiche" src="img/heroineFlyer.jpg"/></a></th>
                 <td>9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</td>   
+            </tr>
+            <tr>
+                <th><a href="#"><img id="actuImg3" alt="affiche" src="img/plakataffiche.jpg"/></a></th>
+                <td>FRONTIERES expo visarte au Musée de Morat 6 juin (vernissage 18h) - 3 octobre</td>   
             </tr>
         </tbody>
     </table>
