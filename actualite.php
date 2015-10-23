@@ -22,12 +22,12 @@
                 <td>Présence dans "Aux combles de l'art" : collection d'art moderne et contemporain du MAHF - Musée d'art et d'histoire Fribourg</td>	
             </tr>
             <tr>
-                <th><a href="#"><img id="actuImg2" alt="affiche" src="img/heroineFlyer.jpg"/></a></th>
-                <td>9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</td>   
+                <th><a href="#"><img id="actuImg2" alt="affiche" src="img/imago.png"/></a></th>
+                <td>Venise, San Giorgio, Fondation Cini : exposition de groupe Imago Mundi (Collection L.Benetton) - jusqu'au 1.11.15</td>   
             </tr>
             <tr>
-                <th><a href="#"><img id="actuImg3" alt="affiche" src="img/plakataffiche.jpg"/></a></th>
-                <td>FRONTIERES expo visarte au Musée de Morat 6 juin (vernissage 18h) - 3 octobre</td>   
+                <th><a href="#"><img id="actuImg3" alt="affiche" src="img/dieWelt.png"/></a></th>
+                <td>Bâle, Projektraum M54 : exposition de groupe Die Welt retten, 30 oct.(vernissage 18h) au 15 nov.2015. Mörsbergerstrasse 54 , ma-ve14-18h +sa-di 13-17h</td>   
             </tr>
         </tbody>
     </table>

@@ -18,8 +18,8 @@
 	<img alt="damier isabelle pilloud" src="img/damier.png"/>
     </div>
     <div id="news">
-        <p><a href="heroines.php">9 janvier (vernissage 18h) – 31 mai 2015 Musée du Papier peint / expo visarte / HEROÏNES work in progress  –  j’ai besoin de vos témoignages !</a></p>
-        <p><a href="actualite.php">FRONTIERES expo visarte au Musée de Morat 6 juin (vernissage 18h) - 3 octobre</a></p>
+        <p><a href="actualite.php">Venise, San Giorgio, Fondation Cini : exposition de groupe Imago Mundi (Collection L.Benetton)  jusqu'au 1.11.15</a></p>
+        <p><a href="actualite.php">Bâle, Projektraum M54 : exposition de groupe Die Welt retten, 30 oct.(vernissage 18h) au 15 nov.2015</a></p>
     </div>
 </div>
 <div id="footer">
