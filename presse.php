@@ -13,6 +13,8 @@
 
     <h1>Presse</h1>
     <div id="presseTitres">
+        <p class="presseTitre"><a href="img/LaGruyereCharmey2016.pdf" target="_blank">- Yann Guerchanik, <span>La Gruyère décembre 2016</span></a></p>
+        <p class="presseTitre"><a href="img/LaLiberteCharmey2016.pdf" target="_blank">- Elisabeth Haas, <span>La Liberté décembre 2016</span></a></p>
         <p class="presseTitre"><a href="http://delarthelvetiquecontemporain.blog.24heures.ch/archive/2014/12/08/isabelle-pilloud-sans-concession-857640.html" target="_blank">Jean-Paul Gavard-Perret, <span>De l'ar helvétique contemporain (blog 24Heures)</span></a></p>
         <p class="presseTitre"><a href="presseArticle1.php">- Pascale Stocker, <span>Le Quotidien Jurassien novembre 2005</span></a></p>
         <p class="presseTitre"><a href="presseArticle2.php">- Monique Durussel, <span>La Liberté mars 2003</span></a></p>        

@@ -18,6 +18,9 @@
     </thead>
     <tbody>
         <tr>
+            <th>2016</th><td>Bourse de mobilité du canton de Fribourg-CH pour HEROÏNES  (<a href="http://www.fr.ch/ww/fr/pub/actualites.cfm?fuseaction_pre=Detail&NewsID=53447">Service de la culture</a>)</td>
+        </tr>
+        <tr>
             <th>2014</th><td>Collection Luciano Benetton, Imago Mundi</td>
         </tr>
         <tr>

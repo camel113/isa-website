@@ -17,6 +17,12 @@
         </tr>
     </thead>
     <tbody>
+    <tr>
+            <th>2016</th><td><a href="http://aesthethika.org/Isabelle-Pilloud-El-discreto">Aesthethika</a>, Prof. Dr. Juan Jorge Michel Fariña, Université Buenos Aires</td>
+        </tr>
+        <tr>
+            <th>2016</th><td><a href="http://aesthethika.org/Isabelle-Pilloud-El-discreto">Aesthethika</a>, Prof. Dr. Juan Jorge Michel Fariña, Université Buenos Aires</td>
+        </tr>
         <tr>
             <th>2015</th><td>Catalogue ImagoMundi -Helvetia  de la Collection Luciano Benetton</td>
         </tr>
@@ -25,9 +31,6 @@
         </tr>
         <tr>
             <th>2015</th><td>Catalogue Grenzen-Frontières, exposition collective au Musée de Morat</td>
-        </tr>
-        <tr>
-            <th>2014</th><td>Publication Isabelle Pilloud, Regard-s de femme-s</td>
         </tr>
         <tr>
             <th>2012</th><td>Cahier Aux combles de l’art, Collection d’art moderne et contemporain du MAHF - Musée d’art et d’histoire Fribourg</td>

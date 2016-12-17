@@ -10,7 +10,7 @@
         <?php include('menu.php');?>
     </div>
     <div id="content" class="heroines">
-        <h1>HELDINNEN <a class="lang" href="vosheroines.php">FR</a></h1>
+        <h1>HELDINNEN <a class="lang" href="vosheroines.php">FR</a> <a class="lang" href="heroines-en.php">EN</a></h1>
         <h3>Teilen Sie Ihre Erzählungen mit mir </h3>
         <p>Mein aktuelles Projekt betrifft HELDINNEN. Es ist ein work in progress über die Frau, an dem ich Sie einlade teilzunehmen.</p>
         <p><b>Hat Sie irgendeine Frau durch ihre Lebensgeschichte oder ihrem Wirken beeindruckt? Haben ihr Mut und/oder ihre Intelligenz etwas Transzendierendes für Sie? Stellt sie für Sie eine Heldin dar, die Sie im Leben motiviert und ermutigt? Ist sie eine Figur der Gegenwart oder der Vergangenheit, der Politik oder der Religion, ...? Oder ist sie gar eine dem Publikum unbekannte Heldin, bescheiden,anonym? Ist es eine Freundin vielleicht, die Grossmutter, eine Nachbarin, ...? Eine Heldin kann vieles sein. Hauptsache für dieses Projekt  ist, dass sie wahrhaftig sein muss! </b></p>

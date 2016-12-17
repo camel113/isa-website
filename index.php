@@ -18,6 +18,7 @@
 	<img alt="damier isabelle pilloud" src="img/damier.png"/>
     </div>
     <div id="news">
+        <p><a href="http://www.musee-charmey.ch" target="_blank">Exposition au Musée de Charmey - vernissage 10 décembre à 17h30, 11.12.16 – 12.2.17</a></p>
     </div>
 </div>
 <div id="footer">

@@ -20,6 +20,10 @@
     </thead>
     <tbody>
         <tr>
+            <th>2016</th>
+            <td>Musée de Charmey  – avec P.Tornare et C.Zumkeller<br/>Carte du monde des héroïnes, EspaceFemmes, Fribourg<br/>Carte du monde des héroïnes, FIFF (Festival international du film Fribourg), Fribourg<br/>Carte du monde des héroïnes, EspaceFemmes, Fribourg</td>
+        </tr>
+        <tr>
             <th>2012</th><td>Caféresto-Galerie Le Tunnel, Fribourg – expo.individuelle </td>
         </tr>
         <tr>

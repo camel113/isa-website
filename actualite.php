@@ -18,7 +18,11 @@
     	<thead></thead>
         <tbody>
             <tr>
-            	<th><a href="#"><img id="actuImg1" alt="affiche" src="img/Affiche-de-l-expob.jpg"/></a></th>
+                <th><a href="#"><img id="actuImg1" alt="boxing" src="img/boxing.jpg"/></a></th>
+                <td>11.12.16 – 12.2.17  Exposition au <a href="www.musee-charmey.ch">Musée de Charmey</a>: Femmes et artistes à Fribourg, avec Pauline Tornare et Catherine Zumkeller </td>   
+            </tr>
+            <tr>
+            	<th><a href="#"><img id="actuImg2" alt="affiche" src="img/Affiche-de-l-expob.jpg"/></a></th>
                 <td>Présence dans "Aux combles de l'art" : collection d'art moderne et contemporain du MAHF - Musée d'art et d'histoire Fribourg</td>	
             </tr>
         </tbody>
