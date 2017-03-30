@@ -423,3 +423,6 @@ p #adrien{
 .lang{
     font-size: 0.6em;
 }
+ul.onglets-hor{
+    background: none;
+}
