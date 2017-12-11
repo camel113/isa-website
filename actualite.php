@@ -18,8 +18,12 @@
     	<thead></thead>
         <tbody>
             <tr>
-                <th><a href="#"><img id="actuImg1" alt="boxing" src="img/boxing.jpg"/></a></th>
-                <td>11.12.16 – 12.2.17  Exposition au <a href="www.musee-charmey.ch">Musée de Charmey</a>: Femmes et artistes à Fribourg, avec Pauline Tornare et Catherine Zumkeller </td>   
+                <th><a href="#"><img id="actuImg1" alt="boxing" src="img/tunnel.jpg"/></a></th>
+                <td>1.12.17 – 27.1.18 Exposition au Tunnel, café social et culturel de Fribourg : "Hosties au Tunnel", avec V.Caflisch, E.Hofkunst, R.Hofkunst et W.Klakla</td>   
+            </tr>
+            <tr>
+                <th><a href="#"><img id="actuImg1" alt="boxing" src="img/minimes.jpg"/></a></th>
+                <td>9.12 – 30.1.2017 Exposition au Centre culturel des Capucins à Romont : "Minimes" avec Visarte</td>   
             </tr>
             <tr>
             	<th><a href="#"><img id="actuImg2" alt="affiche" src="img/Affiche-de-l-expob.jpg"/></a></th>
